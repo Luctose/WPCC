@@ -1,0 +1,6 @@
+This is the first line of inFile.txt
+second line
+this line
+wraps over to the fourth line
+
+Lorem ipsum
